@@ -42,11 +42,11 @@ THEN that will be shown on the page, and added to their transaction history when
 
 
 ## Link to Deployed App
-[Link to deployed app](https://.herokuapp.com/) 
+[Link to deployed app](https://stark-peak-89313.herokuapp.com/) 
 (Click to open app)
 
 ## GitHub Repo:
-https://github.com/helmsjames/Workout-Tracker   
+https://github.com/helmsjames/Budget-Tracker 
 
 ## Portfolio Page
 https://github.com/helmsjames
