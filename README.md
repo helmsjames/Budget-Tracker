@@ -43,7 +43,7 @@ THEN that will be shown on the page, and added to their transaction history when
 
 ## Link to Deployed App
 [Link to deployed app](https://stark-peak-89313.herokuapp.com/) 
-(Click to open app)
+(https://stark-peak-89313.herokuapp.com/)
 
 ## GitHub Repo:
 https://github.com/helmsjames/Budget-Tracker 
