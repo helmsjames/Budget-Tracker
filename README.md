@@ -52,6 +52,4 @@ https://github.com/helmsjames/Budget-Tracker
 https://github.com/helmsjames
 
 ## Screenshots
-![Example screenshot](img1.png)
-![Example screenshot](img2.png)
-![Example gif](img3.gif)
+![Example screenshot](./public/icons/budget.png)
